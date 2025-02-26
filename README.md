@@ -1,4 +1,4 @@
-Iam lion kakruri from waiyaki gardens currently pursuing ICT.
+Iam lion karuri from waiyaki gardens currently pursuing ICT.
 Icurrently want to be a professional programmer.
 I am studying python using an online platform.
 I am currently working on a website for children pick  up https://fetchkids.com/
